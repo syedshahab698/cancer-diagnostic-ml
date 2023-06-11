@@ -1,6 +1,6 @@
 # Breast Cancer Diagnostic Models
 
-This repository contains machine learning models for breast cancer diagnosis. The models are built using Python and Jupyter Notebook, utilizing popular libraries such as scikit-learn, TensorFlow, and PyTorch.
+This repository contains machine learning models for breast cancer diagnosis. The models are built using Python and Jupyter Notebook, utilizing popular libraries such as scikit-learn.
 
 ## Dataset
 The models are trained and evaluated on the Breast Cancer Wisconsin (Diagnostic) dataset, which provides various features for predicting the diagnosis of breast cancer.
